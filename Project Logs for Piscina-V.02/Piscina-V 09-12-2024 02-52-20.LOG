@@ -1,0 +1,176 @@
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found *WST-1205S_WST-1205S(Primary)
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found CAPPRD500W60D1050H1350
+Add Component: Footprint Not Found CAPPRD500W60D1050H1350
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Add Component: Footprint Not Found SOT95P237X112-3N
+Added Component: Designator=L1(Indutor SMD)
+Add component (AddParameter): Name = "Case/Size Code"; Value = "1280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Power Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/74477001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/74477001?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance"; Value = "4.6mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "7mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "1.2uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "74477001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-PD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "13.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "21A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "45MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Indutor_Ax
+Add Component: Footprint Not Found Indutor_Ax
+Add Component: Footprint Not Found CN_UART
+Add Component: Footprint Not Found 4-Pin SOT
+Add Component: Footprint Not Found XTAL_ABLS-12.000MHz-20-B-3-H-T
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Pin To Net: Unknown Pin: Pin B1-2
+Add Pin To Net: Unknown Pin: Pin B1-3
+Add Pin To Net: Unknown Pin: Pin B2-1
+Add Pin To Net: Unknown Pin: Pin B2-2
+Add Pin To Net: Unknown Pin: Pin B2-3
+Add Pin To Net: Unknown Pin: Pin B3-1
+Add Pin To Net: Unknown Pin: Pin B3-2
+Add Pin To Net: Unknown Pin: Pin B3-3
+Add Pin To Net: Unknown Pin: Pin B4-1
+Add Pin To Net: Unknown Pin: Pin B4-2
+Add Pin To Net: Unknown Pin: Pin B4-3
+Add Pin To Net: Unknown Pin: Pin BZ1-NEG
+Add Pin To Net: Unknown Pin: Pin BZ1-POS
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-Negativo
+Add Pin To Net: Unknown Pin: Pin C19-Positivo
+Add Pin To Net: Unknown Pin: Pin C22-Negativo
+Add Pin To Net: Unknown Pin: Pin C22-Positivo
+Add Pin To Net: Unknown Pin: Pin C29-Negativo
+Add Pin To Net: Unknown Pin: Pin C29-Positivo
+Add Pin To Net: Unknown Pin: Pin C30-Negativo
+Add Pin To Net: Unknown Pin: Pin C30-Positivo
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-C
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-3
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin DS1-A
+Add Pin To Net: Unknown Pin: Pin DS1-K
+Add Pin To Net: Unknown Pin: Pin DS2-A
+Add Pin To Net: Unknown Pin: Pin DS2-K
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-16
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Add Pin To Net: Unknown Pin: Pin IC1-31
+Add Pin To Net: Unknown Pin: Pin IC1-34
+Add Pin To Net: Unknown Pin: Pin IC1-35
+Add Pin To Net: Unknown Pin: Pin IC1-36
+Add Pin To Net: Unknown Pin: Pin IC1-37
+Add Pin To Net: Unknown Pin: Pin IC1-38
+Add Pin To Net: Unknown Pin: Pin IC1-39
+Add Pin To Net: Unknown Pin: Pin IC1-40
+Add Pin To Net: Unknown Pin: Pin IC1-44
+Add Pin To Net: Unknown Pin: Pin IC1-47
+Add Pin To Net: Unknown Pin: Pin IC1-48
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Added Pin To Net: NetName=NetD4_1 Pin=L1-1
+Added Pin To Net: NetName=Power5v0 Pin=L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P3-3
+Add Pin To Net: Unknown Pin: Pin U5-0
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Class Member: Failed to add class member : Component B1 T1050-8G
+Add Class Member: Failed to add class member : Component B2 T1050-8G
+Add Class Member: Failed to add class member : Component B3 T1050-8G
+Add Class Member: Failed to add class member : Component B4 T1050-8G
+Add Class Member: Failed to add class member : Component BZ1 Buzzer
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C14 Capacitor
+Add Class Member: Failed to add class member : Component C16 MAL213656221E3
+Add Class Member: Failed to add class member : Component C17 MAL213656221E3
+Add Class Member: Failed to add class member : Component C18 Capacitor
+Add Class Member: Failed to add class member : Component C19 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C22 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C29 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C30 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C31 Capacitor
+Add Class Member: Failed to add class member : Component D2 Zenner
+Add Class Member: Failed to add class member : Component D7 Zenner
+Add Class Member: Failed to add class member : Component D8 Zenner
+Add Class Member: Failed to add class member : Component DS1 RED LED
+Add Class Member: Failed to add class member : Component DS2 RED LED
+Add Class Member: Failed to add class member : Component IC1 STM32F103C6T6
+Add Class Member: Failed to add class member : Component J1 MCP100T-450I/TT
+Added Member To Class: ClassName=Piscina-V.02 Member=Component L1 33uH, 13.5A
+Add Class Member: Failed to add class member : Component L2 Inductor
+Add Class Member: Failed to add class member : Component L3 Inductor
+Add Class Member: Failed to add class member : Component P3 Header 3
+Add Class Member: Failed to add class member : Component U5 lm1117
+Add Class Member: Failed to add class member : Component Y1 ABLS-12.000MHz-20-B-3-H-T

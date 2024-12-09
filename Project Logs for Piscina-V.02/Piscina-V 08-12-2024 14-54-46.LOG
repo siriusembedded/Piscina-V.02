@@ -1,0 +1,794 @@
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found Triac-D²PAK
+Add Component: Footprint Not Found *WST-1205S_WST-1205S(Primary)
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found CAPPRD500W60D1050H1350
+Add Component: Footprint Not Found CAPPRD500W60D1050H1350
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found CAP_0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found Cap0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found C-0805
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found Cap_47uf 16V
+Add Component: Footprint Not Found Cap-10mm
+Add Component: Footprint Not Found CN-JTAG
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found MBR360
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found QFP50P900X900X160-48N
+Add Component: Footprint Not Found SOT95P237X112-3N
+Add Component: Footprint Not Found Borne-3V
+Add Component: Footprint Not Found Borne-3V
+Add Component: Footprint Not Found Borne-3V
+Add Component: Footprint Not Found Indutor SMD
+Add Component: Footprint Not Found Indutor_Ax
+Add Component: Footprint Not Found Indutor_Ax
+Add Component: Footprint Not Found Borne-2V
+Add Component: Footprint Not Found Borne-2V
+Add Component: Footprint Not Found CN_UART
+Add Component: Footprint Not Found Borne-2V
+Add Component: Footprint Not Found Borne-2V
+Add Component: Footprint Not Found Borne-2V
+Add Component: Footprint Not Found Borne-2V
+Add Component: Footprint Not Found Borne-2V
+Added Component: Designator=R1(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R47(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R54(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R55(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R63(RESC2012X65N)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805FT40K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "WR08X4022FTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SIRICOM"; VariantName = "[No Variations]"
+Added Component: Designator=R65(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1676221-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Rating"; Value = ".1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1676221-2/TE%20Connectivity/view-part/2211096/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1676221-2.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ".1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Rating"; Value = "100 V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 434121025816
+Add Component: Footprint Not Found 434121025816
+Add Component: Footprint Not Found *SOIC127P600X175-16N
+Add Component: Footprint Not Found 4-Pin SOT
+Add Component: Footprint Not Found TO170P1524X483-6N
+Add Component: Footprint Not Found XTAL_ABLS-12.000MHz-20-B-3-H-T
+Add Pin To Net: Unknown Pin: Pin B1-1
+Add Pin To Net: Unknown Pin: Pin B1-2
+Add Pin To Net: Unknown Pin: Pin B1-3
+Add Pin To Net: Unknown Pin: Pin B2-1
+Add Pin To Net: Unknown Pin: Pin B2-2
+Add Pin To Net: Unknown Pin: Pin B2-3
+Add Pin To Net: Unknown Pin: Pin B3-1
+Add Pin To Net: Unknown Pin: Pin B3-2
+Add Pin To Net: Unknown Pin: Pin B3-3
+Add Pin To Net: Unknown Pin: Pin B4-1
+Add Pin To Net: Unknown Pin: Pin B4-2
+Add Pin To Net: Unknown Pin: Pin B4-3
+Add Pin To Net: Unknown Pin: Pin BZ1-NEG
+Add Pin To Net: Unknown Pin: Pin BZ1-POS
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-Negativo
+Add Pin To Net: Unknown Pin: Pin C19-Positivo
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-Negativo
+Add Pin To Net: Unknown Pin: Pin C22-Positivo
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-Negativo
+Add Pin To Net: Unknown Pin: Pin C29-Positivo
+Add Pin To Net: Unknown Pin: Pin C30-Negativo
+Add Pin To Net: Unknown Pin: Pin C30-Positivo
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin CN1-1
+Add Pin To Net: Unknown Pin: Pin CN1-2
+Add Pin To Net: Unknown Pin: Pin CN1-3
+Add Pin To Net: Unknown Pin: Pin CN1-4
+Add Pin To Net: Unknown Pin: Pin CN1-5
+Add Pin To Net: Unknown Pin: Pin CN1-6
+Add Pin To Net: Unknown Pin: Pin CN1-7
+Add Pin To Net: Unknown Pin: Pin CN1-8
+Add Pin To Net: Unknown Pin: Pin CN1-9
+Add Pin To Net: Unknown Pin: Pin CN1-10
+Add Pin To Net: Unknown Pin: Pin CN1-11
+Add Pin To Net: Unknown Pin: Pin CN1-12
+Add Pin To Net: Unknown Pin: Pin CN1-13
+Add Pin To Net: Unknown Pin: Pin CN1-14
+Add Pin To Net: Unknown Pin: Pin CN1-15
+Add Pin To Net: Unknown Pin: Pin CN1-16
+Add Pin To Net: Unknown Pin: Pin CN1-18
+Add Pin To Net: Unknown Pin: Pin CN1-19
+Add Pin To Net: Unknown Pin: Pin CN1-20
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-C
+Add Pin To Net: Unknown Pin: Pin D4-Anodo
+Add Pin To Net: Unknown Pin: Pin D4-Catodo
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin DS1-A
+Add Pin To Net: Unknown Pin: Pin DS1-K
+Add Pin To Net: Unknown Pin: Pin DS2-A
+Add Pin To Net: Unknown Pin: Pin DS2-K
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-10
+Add Pin To Net: Unknown Pin: Pin IC1-11
+Add Pin To Net: Unknown Pin: Pin IC1-12
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-14
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-16
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-25
+Add Pin To Net: Unknown Pin: Pin IC1-26
+Add Pin To Net: Unknown Pin: Pin IC1-27
+Add Pin To Net: Unknown Pin: Pin IC1-28
+Add Pin To Net: Unknown Pin: Pin IC1-30
+Add Pin To Net: Unknown Pin: Pin IC1-31
+Add Pin To Net: Unknown Pin: Pin IC1-34
+Add Pin To Net: Unknown Pin: Pin IC1-35
+Add Pin To Net: Unknown Pin: Pin IC1-36
+Add Pin To Net: Unknown Pin: Pin IC1-37
+Add Pin To Net: Unknown Pin: Pin IC1-38
+Add Pin To Net: Unknown Pin: Pin IC1-39
+Add Pin To Net: Unknown Pin: Pin IC1-40
+Add Pin To Net: Unknown Pin: Pin IC1-44
+Add Pin To Net: Unknown Pin: Pin IC1-47
+Add Pin To Net: Unknown Pin: Pin IC1-48
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P3-3
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P4-2
+Add Pin To Net: Unknown Pin: Pin P5-1
+Add Pin To Net: Unknown Pin: Pin P5-2
+Add Pin To Net: Unknown Pin: Pin P6-1
+Add Pin To Net: Unknown Pin: Pin P6-2
+Add Pin To Net: Unknown Pin: Pin P7-1
+Add Pin To Net: Unknown Pin: Pin P7-2
+Add Pin To Net: Unknown Pin: Pin P8-1
+Add Pin To Net: Unknown Pin: Pin P8-2
+Added Pin To Net: NetName=Power3v3 Pin=R1-1
+Added Pin To Net: NetName=NetIC1_12 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetCN1_3 Pin=R3-1
+Added Pin To Net: NetName=Power-uC Pin=R3-2
+Added Pin To Net: NetName=Power3v3 Pin=R4-1
+Added Pin To Net: NetName=NetCN1_3 Pin=R4-2
+Added Pin To Net: NetName=Power3v3 Pin=R5-1
+Added Pin To Net: NetName=NetCN1_5 Pin=R5-2
+Added Pin To Net: NetName=Power3v3 Pin=R6-1
+Added Pin To Net: NetName=NetCN1_7 Pin=R6-2
+Added Pin To Net: NetName=Power3v3 Pin=R7-1
+Added Pin To Net: NetName=NetCN1_13 Pin=R7-2
+Added Pin To Net: NetName=NetP1_2 Pin=R8-1
+Added Pin To Net: NetName=NetR2_2 Pin=R8-2
+Added Pin To Net: NetName=NetIC1_25 Pin=R9-1
+Added Pin To Net: NetName=Power3v3 Pin=R9-2
+Added Pin To Net: NetName=NetP4_1 Pin=R10-1
+Added Pin To Net: NetName=NetD1_2 Pin=R10-2
+Added Pin To Net: NetName=NetD1_2 Pin=R11-1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetD1_1 Pin=R12-1
+Added Pin To Net: NetName=NetR11_2 Pin=R12-2
+Added Pin To Net: NetName=NetCN1_9 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetCN1_11 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=NetCN1_15 Pin=R15-1
+Added Pin To Net: NetName=NetCN1_3 Pin=R15-2
+Added Pin To Net: NetName=NetCN1_19 Pin=R16-1
+Added Pin To Net: NetName=Power5v0 Pin=R16-2
+Added Pin To Net: NetName=Pwr-uC-Gnd Pin=R17-1
+Added Pin To Net: NetName=NetIC1_44 Pin=R17-2
+Added Pin To Net: NetName=NetIC1_26 Pin=R18-1
+Added Pin To Net: NetName=Power3v3 Pin=R18-2
+Added Pin To Net: NetName=NetIC2_1 Pin=R21-1
+Added Pin To Net: NetName=TensaoEntrada Pin=R21-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R22-1
+Added Pin To Net: NetName=NetIC2_1 Pin=R22-2
+Added Pin To Net: NetName=NetIC1_28 Pin=R27-1
+Added Pin To Net: NetName=Power3v3 Pin=R27-2
+Added Pin To Net: NetName=NetD2_A Pin=R28-1
+Added Pin To Net: NetName=NetD2_C Pin=R28-2
+Added Pin To Net: NetName=NetDS1_A Pin=R29-1
+Added Pin To Net: NetName=NetIC1_11 Pin=R29-2
+Added Pin To Net: NetName=NetIC3_1 Pin=R32-1
+Added Pin To Net: NetName=TensaoEntrada Pin=R32-2
+Added Pin To Net: NetName=NetIC3_2 Pin=R35-1
+Added Pin To Net: NetName=NetIC3_1 Pin=R35-2
+Added Pin To Net: NetName=NetDS2_A Pin=R36-1
+Added Pin To Net: NetName=Power5v0 Pin=R36-2
+Added Pin To Net: NetName=NetIC1_10 Pin=R38-1
+Added Pin To Net: NetName=Power5v0 Pin=R38-2
+Added Pin To Net: NetName=NetC15_1 Pin=R39-1
+Added Pin To Net: NetName=Power5v0 Pin=R39-2
+Added Pin To Net: NetName=GND Pin=R40-1
+Added Pin To Net: NetName=NetIC1_10 Pin=R40-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=NetC15_1 Pin=R41-2
+Added Pin To Net: NetName=NetIC4_1 Pin=R44-1
+Added Pin To Net: NetName=TensaoEntrada Pin=R44-2
+Added Pin To Net: NetName=NetIC2_2 Pin=R45-1
+Added Pin To Net: NetName=NetIC4_1 Pin=R45-2
+Added Pin To Net: NetName=NetIC1_13 Pin=R47-1
+Added Pin To Net: NetName=Power3v3 Pin=R47-2
+Added Pin To Net: NetName=NetIC1_27 Pin=R54-1
+Added Pin To Net: NetName=Power3v3 Pin=R54-2
+Added Pin To Net: NetName=NetD8_A Pin=R55-1
+Added Pin To Net: NetName=NetD8_C Pin=R55-2
+Added Pin To Net: NetName=NetIC5_1 Pin=R60-1
+Added Pin To Net: NetName=TensaoEntrada Pin=R60-2
+Added Pin To Net: NetName=NetIC3_2 Pin=R63-1
+Added Pin To Net: NetName=NetIC5_1 Pin=R63-2
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Add Pin To Net: Unknown Pin: Pin SW2-1
+Add Pin To Net: Unknown Pin: Pin SW2-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U5-0
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin VR1-1
+Add Pin To Net: Unknown Pin: Pin VR1-2
+Add Pin To Net: Unknown Pin: Pin VR1-3
+Add Pin To Net: Unknown Pin: Pin VR1-4
+Add Pin To Net: Unknown Pin: Pin VR1-5
+Add Pin To Net: Unknown Pin: Pin VR1-6
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Class Member: Failed to add class member : Component B1 T1050-8G
+Add Class Member: Failed to add class member : Component B2 T1050-8G
+Add Class Member: Failed to add class member : Component B3 T1050-8G
+Add Class Member: Failed to add class member : Component B4 T1050-8G
+Add Class Member: Failed to add class member : Component BZ1 Buzzer
+Add Class Member: Failed to add class member : Component C1 100nF
+Add Class Member: Failed to add class member : Component C2 100nF
+Add Class Member: Failed to add class member : Component C3 1nF
+Add Class Member: Failed to add class member : Component C4 100nF
+Add Class Member: Failed to add class member : Component C5 100nF
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 100nF
+Add Class Member: Failed to add class member : Component C8 10nF
+Add Class Member: Failed to add class member : Component C9 1nF
+Add Class Member: Failed to add class member : Component C10 1nF
+Add Class Member: Failed to add class member : Component C11 100nF
+Add Class Member: Failed to add class member : Component C12 1nF
+Add Class Member: Failed to add class member : Component C13 100nF
+Add Class Member: Failed to add class member : Component C14 Capacitor
+Add Class Member: Failed to add class member : Component C15 1nF
+Add Class Member: Failed to add class member : Component C16 MAL213656221E3
+Add Class Member: Failed to add class member : Component C17 MAL213656221E3
+Add Class Member: Failed to add class member : Component C18 Capacitor
+Add Class Member: Failed to add class member : Component C19 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C20 100nF
+Add Class Member: Failed to add class member : Component C21 100nF
+Add Class Member: Failed to add class member : Component C22 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C23 100nF
+Add Class Member: Failed to add class member : Component C24 100nF
+Add Class Member: Failed to add class member : Component C25 100nF
+Add Class Member: Failed to add class member : Component C26 100nF
+Add Class Member: Failed to add class member : Component C27 1nF
+Add Class Member: Failed to add class member : Component C28 1nF
+Add Class Member: Failed to add class member : Component C29 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C30 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component C31 Capacitor
+Add Class Member: Failed to add class member : Component CN1 JtagStm32
+Add Class Member: Failed to add class member : Component D2 Zenner
+Add Class Member: Failed to add class member : Component D4 SS54B-HF
+Add Class Member: Failed to add class member : Component D7 Zenner
+Add Class Member: Failed to add class member : Component D8 Zenner
+Add Class Member: Failed to add class member : Component DS1 RED LED
+Add Class Member: Failed to add class member : Component DS2 RED LED
+Add Class Member: Failed to add class member : Component IC1 STM32F103C6T6
+Add Class Member: Failed to add class member : Component J1 MCP100T-450I/TT
+Add Class Member: Failed to add class member : Component J3 TB002-500-03OR
+Add Class Member: Failed to add class member : Component J4 TB002-500-03OR
+Add Class Member: Failed to add class member : Component J5 TB002-500-03OR
+Add Class Member: Failed to add class member : Component L1 33uH, 13.5A
+Add Class Member: Failed to add class member : Component L2 Inductor
+Add Class Member: Failed to add class member : Component L3 Inductor
+Add Class Member: Failed to add class member : Component P1 Conector KRE
+Add Class Member: Failed to add class member : Component P2 Led1 Externo
+Add Class Member: Failed to add class member : Component P3 Header 3
+Add Class Member: Failed to add class member : Component P4 Conector KRE
+Add Class Member: Failed to add class member : Component P5 Led2 Externo
+Add Class Member: Failed to add class member : Component P6 Led3 Externo
+Add Class Member: Failed to add class member : Component P7 Ordem de emergência
+Add Class Member: Failed to add class member : Component P8 Conector KRE
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R1 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R2 2.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R3 2.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R4 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R5 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R6 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R7 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R8 2.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R9 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R10 2.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R11 2.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R12 2.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R13 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R14 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R15 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R16 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R17 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R18 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R21 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R22 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R27 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R28 ?
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R29 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R32 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R35 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R36 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R38 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R39 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R40 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R41 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R44 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R45 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R47 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R54 10K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R55 ?
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R60 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R63 40.2K
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R65 1676221-2
+Add Class Member: Failed to add class member : Component SW1 434121025816
+Add Class Member: Failed to add class member : Component SW2 434121025816
+Add Class Member: Failed to add class member : Component U1 ULN2003ADR
+Add Class Member: Failed to add class member : Component U5 lm1117
+Add Class Member: Failed to add class member : Component VR1 LM2596S-5.0
+Add Class Member: Failed to add class member : Component Y1 ABLS-12.000MHz-20-B-3-H-T
