@@ -1,0 +1,30 @@
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Added Component: Designator=DS1(Led-smd)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Component: Designator=DS2(Led-smd)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LTST-C171KRKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-C
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-3
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Added Pin To Net: NetName=NetDS1_A Pin=DS1-A
+Added Pin To Net: NetName=GND Pin=DS1-K
+Added Pin To Net: NetName=NetDS2_A Pin=DS2-A
+Added Pin To Net: NetName=GND Pin=DS2-K
+Add Class Member: Failed to add class member : Component D2 Zenner
+Add Class Member: Failed to add class member : Component D7 Zenner
+Add Class Member: Failed to add class member : Component D8 Zenner
+Added Member To Class: ClassName=Piscina-V.02 Member=Component DS1 RED LED
+Added Member To Class: ClassName=Piscina-V.02 Member=Component DS2 RED LED

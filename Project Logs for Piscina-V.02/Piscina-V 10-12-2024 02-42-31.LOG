@@ -1,0 +1,35 @@
+Added Component: Designator=D2(Diode-SOD-80)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DL4148-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-213 MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DL4148-TP/Micro%20Commercial/view-part/231264/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(Diode-SOD-80)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DL4148-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-213 MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DL4148-TP/Micro%20Commercial/view-part/231264/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(Diode-SOD-80)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DL4148-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-213 MCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DL4148-TP/Micro%20Commercial/view-part/231264/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_C Pin=D2-C
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-3
+Added Pin To Net: NetName=NetD6_1 Pin=D7-A
+Added Pin To Net: NetName=NetD6_2 Pin=D7-C
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_C Pin=D8-C
+Added Member To Class: ClassName=Piscina-V.02 Member=Component D2 Zenner
+Added Member To Class: ClassName=Piscina-V.02 Member=Component D7 Zenner
+Added Member To Class: ClassName=Piscina-V.02 Member=Component D8 Zenner

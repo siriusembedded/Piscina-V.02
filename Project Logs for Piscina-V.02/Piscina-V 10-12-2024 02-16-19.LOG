@@ -1,0 +1,46 @@
+Add Component: Footprint Not Found CAPPRD500W60D1050H1350
+Add Component: Footprint Not Found CAPPRD500W60D1050H1350
+Added Component: Designator=C19(Cap_47uf 16V)
+Added Component: Designator=C22(Cap_47uf 16V)
+Added Component: Designator=C29(Cap_47uf 16V)
+Added Component: Designator=C30(Cap_47uf 16V)
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Added Pin To Net: NetName=GND Pin=C19-Negativo
+Added Pin To Net: NetName=Power3v3 Pin=C19-Positivo
+Added Pin To Net: NetName=GND Pin=C22-Negativo
+Added Pin To Net: NetName=Power5v0 Pin=C22-Positivo
+Added Pin To Net: NetName=Pwr-uC-Gnd Pin=C29-Negativo
+Added Pin To Net: NetName=Power-uC Pin=C29-Positivo
+Added Pin To Net: NetName=Pwr-uC-Gnd Pin=C30-Negativo
+Added Pin To Net: NetName=Power-uC Pin=C30-Positivo
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-C
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-3
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin DS1-A
+Add Pin To Net: Unknown Pin: Pin DS1-K
+Add Pin To Net: Unknown Pin: Pin DS2-A
+Add Pin To Net: Unknown Pin: Pin DS2-K
+Add Class Member: Failed to add class member : Component C16 MAL213656221E3
+Add Class Member: Failed to add class member : Component C17 MAL213656221E3
+Added Member To Class: ClassName=Piscina-V.02 Member=Component C19 Capacitor Eletrolitico
+Added Member To Class: ClassName=Piscina-V.02 Member=Component C22 Capacitor Eletrolitico
+Added Member To Class: ClassName=Piscina-V.02 Member=Component C29 Capacitor Eletrolitico
+Added Member To Class: ClassName=Piscina-V.02 Member=Component C30 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component D2 Zenner
+Add Class Member: Failed to add class member : Component D7 Zenner
+Add Class Member: Failed to add class member : Component D8 Zenner
+Add Class Member: Failed to add class member : Component DS1 RED LED
+Add Class Member: Failed to add class member : Component DS2 RED LED

@@ -1,0 +1,33 @@
+Added Component: Designator=C16(Cap-Eletrolitico-5mm)
+Added Component: Designator=C17(Cap-Eletrolitico-5mm)
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found DIOMELF3514N
+Add Component: Footprint Not Found LED_0805
+Add Component: Footprint Not Found LED_0805
+Added Pin To Net: NetName=GND Pin=C16-Negativo
+Added Pin To Net: NetName=GND Pin=C17-Negativo
+Added Pin To Net: NetName=Power5v0 Pin=C17-Positivo
+Add Pin To Net: Unknown Pin: Pin D2-A
+Add Pin To Net: Unknown Pin: Pin D2-C
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-3
+Add Pin To Net: Unknown Pin: Pin D7-A
+Add Pin To Net: Unknown Pin: Pin D7-C
+Add Pin To Net: Unknown Pin: Pin D8-A
+Add Pin To Net: Unknown Pin: Pin D8-C
+Add Pin To Net: Unknown Pin: Pin DS1-A
+Add Pin To Net: Unknown Pin: Pin DS1-K
+Add Pin To Net: Unknown Pin: Pin DS2-A
+Add Pin To Net: Unknown Pin: Pin DS2-K
+Added Pin To Net: NetName=NetC16_Positivo Pin=C16-Positivo
+Added Pin To Net: NetName=NetC16_Positivo Pin=D5-2
+Added Pin To Net: NetName=NetC16_Positivo Pin=F3-2
+Added Net: Name=NetC16_Positivo
+Added Member To Class: ClassName=Piscina-V.02 Member=Component C16 Capacitor Eletrolitico
+Added Member To Class: ClassName=Piscina-V.02 Member=Component C17 Capacitor Eletrolitico
+Add Class Member: Failed to add class member : Component D2 Zenner
+Add Class Member: Failed to add class member : Component D7 Zenner
+Add Class Member: Failed to add class member : Component D8 Zenner
+Add Class Member: Failed to add class member : Component DS1 RED LED
+Add Class Member: Failed to add class member : Component DS2 RED LED

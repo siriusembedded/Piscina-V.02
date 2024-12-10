@@ -1,0 +1,29 @@
+Added Pin To Net: NetName=Power-uC Pin=C3-2
+Added Pin To Net: NetName=Power-uC Pin=C4-2
+Added Pin To Net: NetName=Power-uC Pin=C8-2
+Added Pin To Net: NetName=Power-uC Pin=C9-2
+Added Pin To Net: NetName=Power-uC Pin=C10-2
+Added Pin To Net: NetName=Power-uC Pin=C11-2
+Added Pin To Net: NetName=Power-uC Pin=C12-2
+Added Pin To Net: NetName=Power-uC Pin=C13-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R72-1
+Added Pin To Net: NetName=GND Pin=R73-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=GND Pin=U12-2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R12-2
+Added Pin To Net: NetName=NetR11_2 Pin=U3-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR69_2 Pin=R69-2
+Added Pin To Net: NetName=NetR69_2 Pin=R72-2
+Added Pin To Net: NetName=NetR69_2 Pin=U11-1
+Added Net: Name=NetR69_2
+Added Pin To Net: NetName=NetR71_2 Pin=R71-2
+Added Pin To Net: NetName=NetR71_2 Pin=R73-2
+Added Pin To Net: NetName=NetR71_2 Pin=U12-1
+Added Net: Name=NetR71_2

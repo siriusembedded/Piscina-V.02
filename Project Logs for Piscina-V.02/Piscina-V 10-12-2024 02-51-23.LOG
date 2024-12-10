@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D4-Catodo
+Added Pin To Net: NetName=GND Pin=D4-Anodo
+Added Pin To Net: NetName=NetD4_Catodo Pin=D4-Catodo
+Added Pin To Net: NetName=NetD4_Catodo Pin=L1-1
+Added Pin To Net: NetName=NetD4_Catodo Pin=U8-2
+Added Net: Name=NetD4_Catodo

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=D4-Catodo
+Added Pin To Net: NetName=NetD4_Anodo Pin=D4-Anodo
+Added Pin To Net: NetName=NetD4_Anodo Pin=L1-1
+Added Pin To Net: NetName=NetD4_Anodo Pin=U8-2
+Added Net: Name=NetD4_Anodo
