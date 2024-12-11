@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC31_2 Pin=R58-1
+Removed Pin From Net: NetName=NetIC5_6 Pin=R58-2
+Removed Pin From Net: NetName=NetB1_2 Pin=R59-1
+Removed Pin From Net: NetName=NetC31_2 Pin=R59-2
+Added Pin To Net: NetName=NetIC5_6 Pin=R58-1
+Added Pin To Net: NetName=NetC31_2 Pin=R58-2
+Added Pin To Net: NetName=NetC31_2 Pin=R59-1
+Added Pin To Net: NetName=NetB1_2 Pin=R59-2
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R? Res2
