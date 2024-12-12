@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=IC4-2
+Removed Pin From Net: NetName=GND Pin=IC5-2
+Removed Pin From Net: NetName=TensaoEntrada Pin=R21-2
+Removed Pin From Net: NetName=TensaoEntrada Pin=R32-2
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=TensaoEntrada Pin=R44-2
+Added Pin To Net: NetName=TensaoEntrada Pin=R60-2
+Added Pin To Net: NetName=NetIC4_2 Pin=IC4-2
+Added Pin To Net: NetName=NetIC4_2 Pin=R45-1
+Added Pin To Net: NetName=NetIC4_2 Pin=U1-10
+Added Net: Name=NetIC4_2
+Added Pin To Net: NetName=NetIC5_2 Pin=IC5-2
+Added Pin To Net: NetName=NetIC5_2 Pin=R63-1
+Added Pin To Net: NetName=NetIC5_2 Pin=U1-13
+Added Net: Name=NetIC5_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Net: Name=NetR32_2
