@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TensaoEntrada Pin=U8-1
+Added Pin To Net: NetName=TensaoEntrada Pin=C16-Positivo
+Added Pin To Net: NetName=TensaoEntrada Pin=D5-2
+Added Pin To Net: NetName=TensaoEntrada Pin=F3-2

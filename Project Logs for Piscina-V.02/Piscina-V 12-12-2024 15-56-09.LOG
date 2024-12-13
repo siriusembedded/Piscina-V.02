@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TensaoEntrada Pin=P11-2
+Added Pin To Net: NetName=TensaoEntrada Pin=P11-1
+Added Pin To Net: NetName=NetP11_2 Pin=P11-2
+Added Pin To Net: NetName=NetP11_2 Pin=R78-1
+Added Net: Name=NetP11_2
