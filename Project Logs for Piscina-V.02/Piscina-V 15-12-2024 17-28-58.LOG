@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=Power-uC Pin=C1-2
+Removed Pin From Net: NetName=Power-uC Pin=R3-2
+Removed Pin From Net: NetName=Power-uC Pin=U9-2
+Added Pin To Net: NetName=Power3v3 Pin=C1-2
+Added Pin To Net: NetName=Power3v3 Pin=R3-2
+Added Pin To Net: NetName=Power3v3 Pin=U9-2
+Added Member To Class: ClassName=Piscina-V.02 Member=Component R57 Res2
